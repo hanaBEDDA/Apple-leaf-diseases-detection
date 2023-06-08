@@ -62,7 +62,7 @@ From the result we obtained, there are many things we should note:
 
 This will put us in a problem because if we use this data for training, our models will not train well for the two last   categories.
 
-# 6/ Image Processing:
+# 6/ Image Pre-Processing:
 
 Image processing is a crucial step in many machine learning applications that deal with visual data.It can be used to extract meaningful features from images, remove noise, improve image quality, and enhance the interpretability of the data.
 In addition, image processing is an important tool in machine learning for preprocessing and preparing visual data    for analysis and modeling.
