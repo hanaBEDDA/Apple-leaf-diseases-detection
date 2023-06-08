@@ -64,8 +64,8 @@ This will put us in a problem because if we use this data for training, our mode
 
 # 6/ Image Pre-Processing:
 
-Image processing is a crucial step in many machine learning applications that deal with visual data.It can be used to extract meaningful features from images, remove noise, improve image quality, and enhance the interpretability of the data.
-In addition, image processing is an important tool in machine learning for preprocessing and preparing visual data    for analysis and modeling.
+Image pre-processing is a crucial step in many machine learning applications that deal with visual data.It can be used to extract meaningful features from images, remove noise, improve image quality, and enhance the interpretability of the data.
+In addition, image pre-processing is an important tool in machine learning for preprocessing and preparing visual data for analysis and modeling.
 
 ## A/ Image Denoising:
 Image denoising techniques aim to remove the noise while preserving the useful information in the image. This can be done by applying filters or mathematical algorithms that analyze the image and remove the unwanted noise.
